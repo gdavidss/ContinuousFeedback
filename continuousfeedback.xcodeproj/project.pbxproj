@@ -17,6 +17,7 @@
 		150D4E71293C075B00F35424 /* continuousfeedbackTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 150D4E70293C075B00F35424 /* continuousfeedbackTests.m */; };
 		150D4E7B293C075B00F35424 /* continuousfeedbackUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 150D4E7A293C075B00F35424 /* continuousfeedbackUITests.m */; };
 		150D4E7D293C075B00F35424 /* continuousfeedbackUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 150D4E7C293C075B00F35424 /* continuousfeedbackUITestsLaunchTests.m */; };
+		150D4E90293CED1800F35424 /* tick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 150D4E8F293CED1800F35424 /* tick.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		150D4E76293C075B00F35424 /* continuousfeedbackUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = continuousfeedbackUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		150D4E7A293C075B00F35424 /* continuousfeedbackUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = continuousfeedbackUITests.m; sourceTree = "<group>"; };
 		150D4E7C293C075B00F35424 /* continuousfeedbackUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = continuousfeedbackUITestsLaunchTests.m; sourceTree = "<group>"; };
+		150D4E8F293CED1800F35424 /* tick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = tick.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				150D4E57293C075900F35424 /* SceneDelegate.h */,
 				150D4E58293C075900F35424 /* SceneDelegate.m */,
 				150D4E5A293C075900F35424 /* ViewController.h */,
+				150D4E8F293CED1800F35424 /* tick.wav */,
 				150D4E5B293C075900F35424 /* ViewController.m */,
 				150D4E5D293C075900F35424 /* Main.storyboard */,
 				150D4E60293C075A00F35424 /* Assets.xcassets */,
@@ -242,6 +245,7 @@
 				150D4E64293C075A00F35424 /* LaunchScreen.storyboard in Resources */,
 				150D4E61293C075A00F35424 /* Assets.xcassets in Resources */,
 				150D4E5F293C075900F35424 /* Main.storyboard in Resources */,
+				150D4E90293CED1800F35424 /* tick.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

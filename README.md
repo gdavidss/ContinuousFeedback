@@ -4,7 +4,7 @@ The Continuous Feedback app is a unique and engaging way to give feedback to oth
 
 ### Demo
 
-![Continuous_Feedback](https://user-images.githubusercontent.com/62527620/206051477-753fcfae-c107-4b65-ae22-1151e16f557d.gif)
+![Continuous_Feedback (1)](https://user-images.githubusercontent.com/62527620/206051746-79252d5f-44d9-4fd9-a008-00d41a223d43.gif)
 
 ### Images
 
